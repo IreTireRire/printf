@@ -1,2 +1,2 @@
 printf group project 
-funmito is my partner 
+funmito is my partner
